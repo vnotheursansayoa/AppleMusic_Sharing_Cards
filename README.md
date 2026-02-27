@@ -3,8 +3,6 @@
 # 详细信息 Detailed Information
 
 # 简体中文
-# Apple Music 分享卡片生成工具
-
 一款纯前端、轻量级的单文件 HTML 小工具。适合用于社交平台的音乐分享。
 解决了部分平台的Apple music中的音乐与专辑无法通过卡片分享的困扰。
 
